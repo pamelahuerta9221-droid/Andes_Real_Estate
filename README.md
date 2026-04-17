@@ -1,4 +1,4 @@
-# Andes_Real_Estate
+# Estrategia comercial de Andes Capital Real Estate
 
 Es una empresa inmobiliaria que gestiona la venta de diferentes tipos de propiedades a través de distintos canales de venta y segmentos de clientes.
 
